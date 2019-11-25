@@ -1,0 +1,2 @@
+it is using command of reset 
+to changes of the one step back
